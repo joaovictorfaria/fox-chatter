@@ -1,11 +1,9 @@
-
-# Pet-Virtual
+## Fox Chatter
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
-# Fox Chatter – Um Encantador Jogo de Pet Virtual
-
-## Fox Chatter
+<p align="center">
+  <a href="https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 
 
 ## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://www.linkedin.com/in/estherolvr/">Esther Oliveira Costa</a> , <a href="https://github.com/higor-f">Higor Fonseca</a> e <a href="https://github.com/joaovictorfaria">João Victor de Faria</a>
